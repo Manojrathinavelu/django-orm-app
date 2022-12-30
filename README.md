@@ -7,7 +7,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ER diagram
 
-![images](./images/ERdiagram.png)
+![images](images/ERdiagram.png)
 
 ## DESIGN STEPS
 
@@ -75,8 +75,8 @@ admin.site.register(EmployeeDetails,EmployeeAdmin)
 
 ## OUTPUT
 
-![images](./images/Employeename.png)
-![images](./images/useremployee.png)
+![images](images/Employeename.png)
+![images](images/useremployee.png)
 
 ## RESULT
 
